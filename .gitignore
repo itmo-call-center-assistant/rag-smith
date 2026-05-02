@@ -3,6 +3,7 @@ __pycache__/
 *.py[oc]
 build/
 data/
+!src/data
 dist/
 wheels/
 *.egg-info
