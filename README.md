@@ -9,5 +9,5 @@ uv run scrapy crawl tbank_help -o data/raw/tbank_help.json
 ```
 
 ```sh
-uv run --with jupyter jupyter lab
+uv run jupyter lab
 ```
